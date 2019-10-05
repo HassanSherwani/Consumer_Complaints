@@ -6,3 +6,7 @@ Extracting useful information from Financial services complaints.
 
 - Kaggle Challenge:<br>
 https://www.kaggle.com/sebastienverpile/consumercomplaintsdata
+
+# Modules<br>
+
+pandas , re , string , gensim , pyLDAvis
